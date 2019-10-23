@@ -25,9 +25,12 @@ There are couple of ways to view and run notebook.
 
 The most convinient way to quickly install Jupyter Notebook is use of Anaconda package.  
 Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
+
 Use the following installation steps:
+
 Download Anaconda. We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.7).
 Install the version of Anaconda which you downloaded, following the instructions on the download page.
+
 To run the notebook type in the cmd or commander:
  **jupyter notebook**
 
