@@ -1,12 +1,12 @@
 # GMIT Programming for Data Analysis Assignment 2019
 
-This repository contains a Jupyter notebook with detailed explanation of use numpy.random package what was assigned as completion for Programming for Data Analysis in second semester of 2019.
+This repository contains a Jupyter notebook with a detailed explanation of use numpy.random package what was assigned as a completion for Programming for Data Analysis in the second semester of 2019.
 
 [See here for the instructions](https://github.com/brianmcginley/ProgDA/raw/master/ProgDA_Assignment.pdf)
 
 ## The main goal and the key points
 
-Using the Jupyter notebook explain the use of the **numpy.random** package with main focus on following tasks:
+Using the Jupyter notebook explain the use of the **numpy.random** package with main focus on the following tasks:
 
 * Explain the overall purpose of the package
 * Explain the use of the “Simple random data” and “Permutations” functions
@@ -23,13 +23,13 @@ There are couple of ways to view and run notebook.
 
 ### How to install Jupyter Notebook
 
-The most convinient way to quickly install Jupyter Notebook is use of Anaconda package.  
+The most convenient way to quickly install Jupyter Notebook is the use of Anaconda package.  
 Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
 
 Use the following installation steps:
 
-Download Anaconda. We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.7).
-Install the version of Anaconda which you downloaded, following the instructions on the download page.
+Download Anaconda. Is recommend downloading Anaconda’s latest Python 3 version (currently Python 3.7).
+Install the version of Anaconda which was downloaded, following the instructions on the download page.
 
 To run the notebook type in the cmd or commander:
  **jupyter notebook**
