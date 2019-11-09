@@ -15,11 +15,11 @@ Using the Jupyter notebook explain the use of the **numpy.random** package with 
 
 ## How to run code the in Jupyter Notebook
 
-There are couple of ways to view and run notebook.
+There are a couple of ways to view and run notebook.
 
    1. The file can be downloaded locally and run on the PC with Jupyter Notebook installed
    2. It can be viewed in the web browser on the [nbviewer](https://nbviewer.jupyter.org/github/G00376332/52465_Assignment/blob/master/Numpy_Assignment.ipynb)
-   3. Directrly on the GitHub
+   3. Directrly on the [GitHub](https://github.com/G00376332/52465_Assignment/blob/master/Numpy_Assignment.ipynb)
 
 ### How to install Jupyter Notebook
 
